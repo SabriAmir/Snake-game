@@ -21,12 +21,12 @@ The classic snake game where you control the snake to eat food, grow longer, and
    ```
 3. clon it
 ```bash
-git clone https://github.com/SabriAmir/
-cd 
+git clone https://github.com/SabriAmir/Snake-game.git
+cd Snake-game
    ```
 4. Run code
 ```bash
-python keylogger.py
+python Snake-game.py
 ```
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
