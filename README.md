@@ -16,9 +16,9 @@ The classic snake game where you control the snake to eat food, grow longer, and
 ## 🚀 Installation & Run
 1. Make sure you have Python 3 installed.
 2. Install pygame:
-   ```bash
-   pip install pygame
-   ```
+ ```bash
+ pip install pygame
+ ```
 3. clon it
 ```bash
 git clone https://github.com/SabriAmir/Snake-game.git
