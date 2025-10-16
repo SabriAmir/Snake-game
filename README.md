@@ -19,7 +19,14 @@ The classic snake game where you control the snake to eat food, grow longer, and
    ```bash
    pip install pygame
    ```
-
-
+3. clon it
+```bash
+git clone https://github.com/SabriAmir/
+cd 
+   ```
+4. Run code
+```bash
+python keylogger.py
+```
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
